@@ -21,6 +21,8 @@ It is also a platform where one can learn and also volunteer to teach others thr
 The above project has been spearheader and brought into life by a passionate tech enthusiast Clin
 All the materials used in the project are available on my official pages and blog posts where I have expalined how the site works, components and different technologies concerning the site.
 
+## Website screenshot
+
 ![cought](https://github.com/user-attachments/assets/6843dafd-eed8-4d8a-afd8-6d1da98494f4)
 
 ## Link to the Deployed site
