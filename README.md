@@ -24,7 +24,8 @@ The project as a whole is not yet complete since the backend of the project is s
 
 ## Website screenshot
 
-![cought](https://github.com/user-attachments/assets/6843dafd-eed8-4d8a-afd8-6d1da98494f4)
+![cache](https://github.com/user-attachments/assets/126cb82e-41d3-4607-9189-34266f908e2b)
+
 
 ## Link to the Deployed site
 https://gamez-em.netlify.app/
