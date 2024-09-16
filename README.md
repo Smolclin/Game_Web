@@ -15,4 +15,4 @@ The platforms front-end has been developed using languages such as HTML/CSS and 
 The above project has been spearheader and brought into life by a passionate tech enthusiast Clin
 All the materials used in the project are available on my official pages and blog posts where I have expalined how the site works, components and different technologies concerning the site.
 
-https://gamez-em.netlify.app/
+![cought](https://github.com/user-attachments/assets/6843dafd-eed8-4d8a-afd8-6d1da98494f4)
