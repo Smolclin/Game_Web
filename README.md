@@ -11,6 +11,12 @@ The application is also designed in a way that favours self learning with differ
 Languages for video game development and APIs needed for such activities are also present in the platform.
 The platforms front-end has been developed using languages such as HTML/CSS and javascript and for the backend, python node and SQL has played major roles in making the site live.
 
+## Inspirations
+The inspirations behind the above project can be channeled to the few and less involvement in gaming industry in Africa.
+The industry is mostly dominated by other countries which have enough resourses for creation, maintenance and development of games and gaming industry.
+This really made me curious and thats why I have always wanted to make Africa and Africans have a platform to tell their stories and and showcase their talents through inventions and inovations in the tech industry.
+It is also a platform where one can learn and also volunteer to teach others through different projects and collaborations.
+
 ## Project & Collaboration
 The above project has been spearheader and brought into life by a passionate tech enthusiast Clin
 All the materials used in the project are available on my official pages and blog posts where I have expalined how the site works, components and different technologies concerning the site.
