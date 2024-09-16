@@ -19,7 +19,8 @@ It is also a platform where one can learn and also volunteer to teach others thr
 
 ## Project & Collaboration
 The above project has been spearheader and brought into life by a passionate tech enthusiast Clin
-All the materials used in the project are available on my official pages and blog posts where I have expalined how the site works, components and different technologies concerning the site.
+Most the materials used in the project are available on my official pages and blog posts where I have expalined how the site works, components and different technologies concerning the site.
+The project as a whole is not yet complete since the backend of the project is still under development and will soon be complete and will be a fully functional site with additional functionality and components during maintenance in the future.
 
 ## Website screenshot
 
